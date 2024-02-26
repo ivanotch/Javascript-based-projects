@@ -1,0 +1,15 @@
+.mother-card {
+    width: 60%;
+}
+
+.card {
+    background-color: #399ad1;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    padding: 1rem;
+    height: 100%;
+    width: 20rem;
+    margin: 1rem;
+    position: relative;
+}
